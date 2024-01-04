@@ -1,0 +1,27 @@
+.eightball {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.eightball-text {
+    border: 1px solid black;
+    border-radius: 180px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.eightball-button {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 15px;
+    background-color: bisque;
+    margin-bottom: 10px;
+}
